@@ -1,5 +1,9 @@
 # Changes to normalize.css
 
+### 8.0.1-0 (July 1, 2021)
+
+* Rename `normalize.css` to `normalize.scss` to prevent issues when importing in SASS. The CSS file version used is still `8.0.1` though.
+
 ### 8.0.1 (November 4, 2018)
 
 * Fix regression in IE rendering of `main` element.
