@@ -2,11 +2,11 @@
   "name": "normalize.css",
   "version": "8.0.1-0",
   "description": "A modern alternative to CSS resets",
-  "main": "normalize.css",
-  "style": "normalize.css",
+  "main": "normalize.scss",
+  "style": "normalize.scss",
   "files": [
     "LICENSE.md",
-    "normalize.css"
+    "normalize.scss"
   ],
   "repository": "necolas/normalize.css",
   "license": "MIT",

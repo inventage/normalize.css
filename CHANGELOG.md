@@ -1,5 +1,9 @@
 # Changes to normalize.css
 
+### 8.0.1-1 (July 20, 2021)
+
+* Rename all instances of `normalize.css` to `normalize.scss` such as entries in `package.json`, to prevent issues with bundlers.
+
 ### 8.0.1-0 (July 1, 2021)
 
 * Rename `normalize.css` to `normalize.scss` to prevent issues when importing in SASS. The CSS file version used is still `8.0.1` though.
